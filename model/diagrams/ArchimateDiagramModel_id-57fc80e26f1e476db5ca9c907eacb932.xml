@@ -621,10 +621,10 @@
       textAlignment="1"
       content="Ator - Quem - pode ser uma pessoa(s) , uma area sendo algo relacionado a caso de uso&#xA;">
     <bounds
-        x="72"
-        y="180"
-        width="157"
-        height="72"/>
+        x="84"
+        y="144"
+        width="169"
+        height="97"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
